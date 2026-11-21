@@ -13,7 +13,7 @@
       "media/75066.png"
     ],
     "icon": "media/75055.png",
-    "cover": "media/75054.jpg",
+    "cover": "media/75198.jpg",
     "author": [
       {
         "name": "18501",
@@ -41,63 +41,63 @@
   "downloads": {
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmrw5xring": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-红米手表4-5-6-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9Pro-10Pro-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9Pro-10Pro-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9-10-11-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米手环9Pro-10Pro-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米手环9Pro-10Pro-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmws4": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米Watch-S系列-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米Watch-S系列-1.0.0.release.rpk",
+      "versionCode": 18
     },
     "xmws5": {
       "version": "1.0.0",
-      "file_name": "downloads/阿瑞斯病毒-小米Watch-S系列-1.0.0.rpk",
-      "versionCode": 17
+      "file_name": "downloads/阿瑞斯病毒-小米Watch-S系列-1.0.0.release.rpk",
+      "versionCode": 18
     }
   },
   "ext": {
